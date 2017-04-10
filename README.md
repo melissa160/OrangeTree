@@ -17,7 +17,7 @@ Modelar un árbol de naranjas. Nuestro árbol tiene las siguientes funcionalidad
 * El árbol muere después de llegar a su maxima edad, y no puede dar mas frutos después de esto.
 
 ## URL
-![Github Pages](https://melissa160.github.io/OrangeTree)
+[Github Pages](https://melissa160.github.io/OrangeTree/)
 
 ## Elementos Utilizados
 
