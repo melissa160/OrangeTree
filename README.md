@@ -1,4 +1,4 @@
-# Arbol de Naranjas Javascript
+# Orange Tree Javascript
 
 ## Resumen
 
@@ -15,18 +15,13 @@ Tu reto sera modelar un árbol de naranjas. Nuestro árbol debe tener las siguie
 * Todas las naranjas que no se recojan antes de que el árbol crezca otro año, se mueren cuando este crece otro año
 * El árbol muere después de llegar a su maxima edad, y no puede dar mas frutos después de esto.
 
-Al final tu aplicación debería funcionar como la siguiente:
-
-[Orange Tree](https://juan267.github.io/javascript_orange_tree/)
+## App preview
+[[https://github.com/melissa160/OrangeTree/tree/master/app/images/preview.jpg]]
 
 ## Pasos
 
 
 ### Paso 0: Trabajando con Jasmine
-
-Hemos escrito varias pruebas para ti usando una librería de javascript llamada Jasmine. Tu trabajo sera crear el código para hacer que estas pruebas pasen.
-
-Para ver las pruebas abre el archivo `tests.html` en tu navegador. La primera vez que lo abras deberías ver la primera prueba fallando. Escribe el código en `app/javascripts/solution.js` para lograr que esta prueba pase. Luego ve al archivo `spec/solution-spec.js` y descomenta la siguiente prueba. Para descomentarla (cambia `xit` por  `it`) y continua trabajando.
 
 
 ### Paso 1: Javascript Objects VS Funciones constructoras
