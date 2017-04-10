@@ -16,7 +16,7 @@ Tu reto sera modelar un árbol de naranjas. Nuestro árbol debe tener las siguie
 * El árbol muere después de llegar a su maxima edad, y no puede dar mas frutos después de esto.
 
 ## App preview
-![Alt text](/OrangeTree/app/images/preview.jpg?raw=true "Orange App Preview")
+![App Preview](./app/images/preview.jpg?raw=true "Orange App Preview")
 
 ## Pasos
 
