@@ -17,16 +17,16 @@ Modelar un árbol de naranjas. Nuestro árbol tiene las siguientes funcionalidad
 * El árbol muere después de llegar a su maxima edad, y no puede dar mas frutos después de esto.
 
 
-## Elementos
+## Elementos Utilizados
 
 
 ### 1: Pruebas con Jasmine. Ver [solution-spec.js](./spec/solution-spec.js)
 
 
-### 2: Javascript Funciones constructoras. Ver [solution.js](./javascripts/solution.js)
+### 2: Javascript Funciones constructoras. Ver [solution.js](./app/javascripts/solution.js)
 
 
-### 3: La vista. Ver [view.js](./javascripts/view.js)
+### 3: La vista. Ver [view.js](./app/javascripts/view.js)
 
 * La aplicacion permite `plantar` un árbol al presionar un botón. Este hace un árbol visible en la pantalla.
 
