@@ -19,7 +19,7 @@ $(document).ready(function() {
   $("button.age").on("click", function(event){  
     tree.grow();
     if (tree.isAlive === false){
-      $("#orange-tree-template").html(`The tree is more than ${MAX_AGE} years old, has died :(` )
+      $("#orange-tree-template").html(`The tree is more than ${MAX_AGE} years old, it has died :(` )
     }
     render()
   });

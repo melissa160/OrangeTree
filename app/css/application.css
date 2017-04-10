@@ -3,15 +3,11 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Acme', sans-serif;
+  min-width: 100vw;
+  min-height: 100vh;
+  max-width: 100vw;
+  max-height: 100vh;
 }
-/*.display-tree-small{
-  background: url('../images/tree.png');
-  background-repeat: no-repeat;
-  height:400px;
-  width:auto;
-  border: solid black 2px;
-  background-size: contain;
-}*/
 
 .display-tree-big{
   background: url('../images/tree.png');
@@ -19,19 +15,13 @@ body{
   height:420px;
   width: 350px;
   position: relative;
-  /*border: solid black 2px;*/
   background-size: contain;
 }
 
 .orange {
   position: absolute;
   cursor: pointer;
-/*  left: 10px;
-  top: 100px;
-  height:480px;
-  width: 875px;*/
 }
-/*#orange-tree-template { display: none; }*/
 
 .container{
   display: flex;
@@ -47,10 +37,6 @@ button{
 
 .hide{
   display: none;
-}
-
-.orange-tree{
-  /*display: inline-flex;*/
 }
 
 .data{
@@ -69,8 +55,4 @@ span{
   color: white;
   background-color: orange;
   padding: 3px 5px;
-}
-
-.pick-text{
-  
 }
